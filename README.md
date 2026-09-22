@@ -4,10 +4,6 @@
 
 > *Why are customers leaving, and how much revenue is at risk?*
 
-📄 [Full Project Report (PDF)](Customer_Churn_Analysis_Project_Report.pdf)
-
-![Dashboard Preview](screenshots/Chrun_dashboard.png)
-
 ---
 
 ## 📁 Table of Contents
